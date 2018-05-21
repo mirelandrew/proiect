@@ -1,5 +1,5 @@
 //declarare default path pentru cache
-const cacheNume = 'v7';
+const cacheNume = 'v9';
 const cacheFiles = [
     './',
     './index.html',
